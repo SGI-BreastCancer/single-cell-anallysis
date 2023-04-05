@@ -1,2 +1,2 @@
 # Integrated single cell analysis with RNA and DNA sequencing for breast cancer
-Code repository for single cell RNA-seq
+Code Associated with the Publication entitled "Stem-like tumor cells cooperate with cancer associated fibroblasts in hormone receptor-positive and HER2-negative breast cancer"
